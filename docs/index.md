@@ -1,9 +1,5 @@
 ---
-title: Material for MkDocs
-social:
-  cards_layout_options:
-    title: Documentation that simply works
-
+title: Knowledge Base for Cybersecurity
 comments: true
 ---
 
