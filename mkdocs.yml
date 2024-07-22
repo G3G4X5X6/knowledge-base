@@ -37,6 +37,7 @@ copyright: Copyright &copy; 2016 - 2024 G3G4X5X6
 # Configuration
 theme:
   name: material
+  custom_dir: overrides
   features:
     - announce.dismiss
     - content.action.edit
@@ -100,9 +101,11 @@ plugins:
       minify_html: true
 
   - git-revision-date-localized:
-      enable_creation_date: true
       type: datetime
-      enabled: true
+      timezone: Asia/Shanghai
+      enable_creation_date: true
+      exclude:
+        - comments.md
 
   - git-committers:
       enabled: true
