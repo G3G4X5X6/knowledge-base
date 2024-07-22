@@ -182,7 +182,7 @@ markdown_extensions:
   - pymdownx.tilde
 
 not_in_nav: |
-  /tutorials/**/*.md
+  drafts/**/*.md
 
 # Page tree
 nav:

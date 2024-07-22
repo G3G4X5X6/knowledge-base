@@ -7,6 +7,6 @@ comments: true
 
 ## Knowledge Base for Cybersecurity
 
-### 1.0.0 <small>2024-07-22</small> { id="1.0.0" }
+### 0.1.0 <small>2024-07-22</small> { id="0.1.0" }
 
-- 添加了关于网络安全的知识库。
+- 添加了 `渗透测试` -> `渗透测试执行标准` 模块。
