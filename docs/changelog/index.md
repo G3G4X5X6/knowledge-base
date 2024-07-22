@@ -1,3 +1,7 @@
+---
+title: 变更日志
+comments: true
+---
 # Changelog
 
 ## Material for MkDocs
@@ -703,7 +707,7 @@ __Fixes__
 
 ### 8.5.11 <small>November 30, 2022</small> { id="8.5.11" }
 
-- Let it snow, see https://twitter.com/squidfunk/status/1597939243090788352
+- Let it snow, see <https://twitter.com/squidfunk/status/1597939243090788352>
 
 ### 8.5.10 <small>November 11, 2022</small> { id="8.5.10" }
 
@@ -1750,7 +1754,7 @@ __Fixes__
 - Added background on hover for table rows
 - Removed Google Tag Manager and reverted to Google Analytics
 - Removed blocks in partials - Jinja doesn't support them
-- Fixed #911: Chrome breaks layout if system language is Chinese (**BREAKING**)
+- Fixed #911: Chrome breaks layout if system language is Chinese (__BREAKING__)
 - Fixed #976: Removed FastClick
 
 ---
@@ -1801,7 +1805,7 @@ __Fixes__
 
 ### 3.0.0 <small>August 5, 2018</small> { id="3.0.0" }
 
-- Upgraded MkDocs to 1.0 (**BREAKING**)
+- Upgraded MkDocs to 1.0 (__BREAKING__)
 - Upgraded Python in official Docker image to 3.6
 - Added Serbian and Serbo-Croatian translations
 
@@ -2304,7 +2308,7 @@ __Fixes__
 - Rewrite of Gulp asset pipeline in ES6 and separation of tasks
 - Removed Bower as a dependency in favor of NPM
 - Removed custom icon build in favor of the Material Design icon set
-- Removed `_blank` targets on links due to vulnerability: http://bit.ly/1Mk2Rtw
+- Removed `_blank` targets on links due to vulnerability: <http://bit.ly/1Mk2Rtw>
 - Removed unversioned assets from build directory
 - Restructured templates into base templates and partials
 - Added build and watch scripts in `package.json`
