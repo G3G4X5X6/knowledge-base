@@ -2,19 +2,11 @@
 title: 变更日志
 comments: true
 ---
+
 # Changelog
 
-## Material for MkDocs
+## Knowledge Base for Cybersecurity
 
-### 9.5.29 <small>July 14, 2024</small> { id="9.5.29" }
+### 1.0.0 <small>2024-07-22</small> { id="1.0.0" }
 
-- Updated Galician translations
-- Fixed #7362: Annotations in figure captions rendering incorrectly
-
-### 9.5.28 <small>July 2, 2024</small> { id="9.5.28" }
-
-- Fixed #7313: Improved tooltips mounted in sidebar when feature is disabled
-
-### 9.5.27 <small>June 16, 2024</small> { id="9.5.27" }
-
-- Updated Estonian translations
+- 添加了关于网络安全的知识库。
