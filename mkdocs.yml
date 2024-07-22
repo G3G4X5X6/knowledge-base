@@ -189,6 +189,17 @@ not_in_nav: |
 # Page tree
 nav:
   - 前言: index.md
+  - 渗透测试:
+      - pentest/index.md
+      - 渗透测试执行标准:
+          - pentest/ptes/index.md
+          - 01. Pre-engagement Interactions: pentest/ptes/01.md
+          - 02. Intelligence Gathering: pentest/ptes/02.md
+          - 03. Threat Modeling: pentest/ptes/03.md
+          - 04. Vulnerability Analysis: pentest/ptes/04.md
+          - 05. Exploitation: pentest/ptes/05.md
+          - 06. Post Exploitation: pentest/ptes/06.md
+          - 07. Reporting: pentest/ptes/07.md
   - Getting started:
       - Installation: getting-started.md
       - Creating your site: creating-your-site.md
