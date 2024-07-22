@@ -102,10 +102,7 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: datetime
-
-  - git_creation_date_localized
-
-  - git_site_revision_date_localized	
+      enabled: true
 
   - git-committers:
       enabled: true
