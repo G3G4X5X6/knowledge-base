@@ -19,19 +19,19 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
+site_name: Knowledge Base
+site_url: https://g3g4x5x6.github.io/knowledge-base/
 site_author: Martin Donath
 site_description: >-
   Write your documentation in Markdown and create a professional static site in
   minutes – searchable, customizable, in 60+ languages, for all devices
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: G3G4X5X6/knowledge-base
+repo_url: https://github.com/G3G4X5X6/knowledge-base
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2024 Martin Donath
+copyright: Copyright &copy; 2016 - 2024 G3G4X5X6
 
 # Configuration
 theme:
@@ -104,8 +104,8 @@ plugins:
 
   - git-committers:
       enabled: true
-      repository: G3G4X5X6/template-with-doc
-      branch: doc
+      repository: G3G4X5X6/knowledge-base
+      branch: main
 
   - git-authors
 
