@@ -94,7 +94,6 @@ theme:
 
 # Plugins
 plugins:
-  - blog
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
@@ -203,8 +202,6 @@ nav:
       - develop/index.md
   - 供应链安全:
       - supply-chain-security/index.md
-  - 博客:
-      - blog/index.md
 
   - 变更日志:
       - changelog/index.md
