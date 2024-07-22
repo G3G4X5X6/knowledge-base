@@ -6,17 +6,52 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/comments/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://g3g4x5x6.github.io/knowledge-base/changelog/</loc>
          <lastmod>2024-07-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://g3g4x5x6.github.io/knowledge-base/develop/</loc>
+         <lastmod>2024-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://g3g4x5x6.github.io/knowledge-base/drafts/ptes/1.Pre-engagement/</loc>
+         <lastmod>2024-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://g3g4x5x6.github.io/knowledge-base/drafts/ptes/2.Intelligence-Gathering/</loc>
+         <lastmod>2024-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://g3g4x5x6.github.io/knowledge-base/drafts/ptes/3.Threat-Modeling/</loc>
+         <lastmod>2024-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://g3g4x5x6.github.io/knowledge-base/drafts/ptes/4.Vulnerability-Analysis/</loc>
+         <lastmod>2024-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://g3g4x5x6.github.io/knowledge-base/drafts/ptes/5.Exploitation/</loc>
+         <lastmod>2024-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://g3g4x5x6.github.io/knowledge-base/drafts/ptes/6.Post-Exploitation/</loc>
+         <lastmod>2024-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://g3g4x5x6.github.io/knowledge-base/drafts/ptes/7.Reporting/</loc>
+         <lastmod>2024-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://g3g4x5x6.github.io/knowledge-base/drafts/ptes/Main-Page/</loc>
          <lastmod>2024-07-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
