@@ -39,8 +39,6 @@ theme:
   name: material
   custom_dir: overrides
   language: zh
-  font:
-    code: Roboto Mono
   features:
     - announce.dismiss
     - content.action.edit
