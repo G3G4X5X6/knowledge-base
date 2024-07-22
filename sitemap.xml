@@ -91,6 +91,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://g3g4x5x6.github.io/knowledge-base/develop/</loc>
+         <lastmod>2024-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://g3g4x5x6.github.io/knowledge-base/guides/creating-a-reproduction/</loc>
          <lastmod>2024-07-22</lastmod>
          <changefreq>daily</changefreq>
@@ -402,6 +407,11 @@
     </url>
     <url>
          <loc>https://g3g4x5x6.github.io/knowledge-base/setup/extensions/python-markdown/</loc>
+         <lastmod>2024-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://g3g4x5x6.github.io/knowledge-base/supply-chain-security/</loc>
          <lastmod>2024-07-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
