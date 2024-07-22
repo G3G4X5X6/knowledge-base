@@ -108,8 +108,6 @@ plugins:
       repository: G3G4X5X6/knowledge-base
       branch: main
 
-  - git-authors
-
 # Additional configuration
 extra:
   status:
