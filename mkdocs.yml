@@ -87,8 +87,7 @@ theme:
         icon: material/toggle-switch-off
         name: Switch to system preference
   font:
-    text: Roboto
-    code: Roboto Mono
+    code: Noto Sans SC
   favicon: assets/favicon.png
   icon:
     logo: logo
