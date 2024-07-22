@@ -11,51 +11,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/2023/11/30/adding-a-badge-to-your-project/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/2022/09/12/blog-support-just-landed/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/2022/05/05/chinese-search-support/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/2021/09/26/excluding-content-from-search/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/2023/09/22/using-git-sparse-checkout-for-faster-documentation-builds/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/2021/09/13/search-better-faster-smaller/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/2023/10/02/sunsetting-gitter-towards-efficient-community-engagement/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/2021/12/27/the-past-present-and-future/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://g3g4x5x6.github.io/knowledge-base/changelog/</loc>
          <lastmod>2024-07-22</lastmod>
          <changefreq>daily</changefreq>
@@ -112,46 +67,6 @@
     </url>
     <url>
          <loc>https://g3g4x5x6.github.io/knowledge-base/supply-chain-security/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/archive/2023/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/archive/2022/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/archive/2021/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/category/general/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/category/build/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/category/performance/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/category/blog/</loc>
-         <lastmod>2024-07-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://g3g4x5x6.github.io/knowledge-base/blog/category/search/</loc>
          <lastmod>2024-07-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
