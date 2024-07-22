@@ -38,6 +38,7 @@ copyright: Copyright &copy; 2016 - 2024 G3G4X5X6
 theme:
   name: material
   custom_dir: overrides
+  language: zh
   features:
     - announce.dismiss
     - content.action.edit
