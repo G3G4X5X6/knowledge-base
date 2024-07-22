@@ -29,6 +29,7 @@ site_description: >-
 # Repository
 repo_name: G3G4X5X6/knowledge-base
 repo_url: https://github.com/G3G4X5X6/knowledge-base
+edit_uri: edit/main/docs/
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2024 G3G4X5X6
