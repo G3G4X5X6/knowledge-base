@@ -7,5 +7,4 @@ social:
 comments: true
 ---
 
-Welcome to Material for MkDocs.
- 
+Welcome to my Knowledge Base.
